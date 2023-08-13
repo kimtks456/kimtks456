@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi, there! 👋
+안녕하세요! 백엔드 개발에 관심있는 김산입니다.  
+ㅇㄹㄴㅇㄹㄴ
+<div align="center"> 
+  ㅅㄷ초
 <!--
 **kimtks456/kimtks456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kimtks456's github stats](https://github-readme-stats.vercel.app/api?username=kimtks456&show_icons=true)
+
+
+![San's github stats](https://github-readme-stats.vercel.app/api?username=kimtks456&show_icons=true)
