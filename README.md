@@ -2,6 +2,7 @@
   
 #### 👋 Welcome to my Github profile!
 I'm passionate about Backend Engineering. 
+These days, I'm interested in system architecture design considering large traffic using kafka.
 
 </br>
 
