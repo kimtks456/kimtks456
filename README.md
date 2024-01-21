@@ -1,7 +1,7 @@
 <div align="left">
   
 #### 👋 Welcome to my Github profile!
-I'm San Kim, a developer who is interested in Backend development and MLOps.
+I'm San Kim, a developer who is interested in Application Architect and MLOps.
 
 Currently, I'm focusing on the following things.
 1. Backend development of [Online PT Platform](https://github.com/Pocket-PT) service
