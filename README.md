@@ -1,11 +1,11 @@
 <div align="left">
   
 #### 👋 Welcome to my Github profile!
-I'm San Kim, a developer who is interested in Backend development and Computer Vision.
+I'm San Kim, a developer who is interested in Backend development and MLOps.
 
-Currently, I'm focusing on the following projects.
+Currently, I'm focusing on the following things.
 1. Backend development of [Online PT Platform](https://github.com/Pocket-PT) service
-2. Writing bachelor's degree thesis about [Optimizing Noise Scheduling of 'DiffusionDet' model](https://github.com/kimtks456/DiffusionDet-noise-schedule)
+2. Studying Basics of NLP [Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=7Ob7AMDfCZwqhsyb)
 
 </br>
 
