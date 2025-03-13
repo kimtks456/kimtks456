@@ -4,9 +4,8 @@
 I'm San Kim, a developer who is interested in Application Architecture and AI System.
 
 Currently, I'm focusing on the following things.
-1. Backend development of [Online PT Platform](https://github.com/Pocket-PT) service
-2. Studying Basics of NLP [Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=7Ob7AMDfCZwqhsyb)
-
+1. Enterprise IT system web application development at CJ OliveNetworks
+   
 </br>
 
 ### 🚀 Tech Stacks
@@ -36,4 +35,9 @@ Here are some ideas to get you started:
 ![kimtks456's github stats](https://github-readme-stats.vercel.app/api?username=kimtks456&show_icons=true)
 
 ### 🔭 Experience
-
+- Studying Basics of NLP [Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=7Ob7AMDfCZwqhsyb) (2024.02 - 2024.06)
+- Bachelor's degree with Electrical Engineering and Computer Science major from Gwangju Institute of Science and Technology (2017.03 - 2024.02)
+- Web Backend development and configuring AI inference system of [Online PT Platform](https://github.com/Pocket-PT) at SW Maestro 14th program (2023.04 - 2023.10)
+- Research Intern at GIST Visual Recognition and Learning Laboratory(ViRL Lab, Prof. Jeany Son) (2022.07 - 2023.11)
+  - Writing a Bachelor's thesis about 'Noise scheduling Optimization in Diffusion process
+for Object Detection' ((code)[https://github.com/kimtks456/DiffusionDet-noise-schedule]) (2022.07 - 2023.11)
