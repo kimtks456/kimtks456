@@ -4,7 +4,7 @@
 I'm San Kim, a developer who is interested in Application Architecture and AI System.
 
 Currently, I'm focusing on the following things.
-1. Enterprise IT system web application development at CJ OliveNetworks(full-time)
+1. Enterprise IT system web application development at CJ OliveNetworks(full-time) (2024.01 - now)
    
 </br>
 
