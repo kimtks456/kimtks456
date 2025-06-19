@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kimtks456's github stats](https://github-readme-stats.vercel.app/api?username=kimtks456&show_icons=true)
-
 ### 🔭 Experience
 - Studying Basics of NLP [Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=7Ob7AMDfCZwqhsyb) _(2024.02 - 2024.06)_
 - Bachelor's degree with Electrical Engineering and Computer Science major from Gwangju Institute of Science and Technology _(2017.03 - 2024.02)_
